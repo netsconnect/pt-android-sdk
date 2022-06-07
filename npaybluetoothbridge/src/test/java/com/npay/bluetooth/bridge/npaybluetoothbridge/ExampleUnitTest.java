@@ -1,4 +1,4 @@
-package com.example.mylibrarysrc;
+package com.npay.bluetooth.bridge.npaybluetoothbridge;
 
 import org.junit.Test;
 

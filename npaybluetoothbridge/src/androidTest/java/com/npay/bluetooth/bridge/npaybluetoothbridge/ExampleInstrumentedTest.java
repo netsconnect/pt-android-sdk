@@ -1,4 +1,4 @@
-package com.example.mylibrarysrc;
+package com.npay.bluetooth.bridge.npaybluetoothbridge;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.example.mylibrarysrc.test", appContext.getPackageName());
+        assertEquals("com.npay.bluetooth.bridge.npaybluetoothbridge.test", appContext.getPackageName());
     }
 }
